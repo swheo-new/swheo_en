@@ -1,0 +1,6 @@
+230fa21be64303f9b9a3a8c112afbd09
+
+curl -F 'hash=dca86121cc7427e375fd24fe5871d727'
+-F 'apikey=230fa21be64303f9b9a3a8c112afbd09' -F 'format=xml' 'https://wildfire.paloaltonetworks.com/publicapi/get/report'
+
+curl -F 'hash= 45e383a730d0ce4817b447b75ac23a2b' -F 'apikey=230fa21be64303f9b9a3a8c112afbd09' -F 'format=xml' 'https://wildfire.paloaltonetworks.com/publicapi/get/report
